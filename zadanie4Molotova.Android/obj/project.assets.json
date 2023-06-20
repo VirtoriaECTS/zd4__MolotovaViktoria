@@ -3408,39 +3408,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\307-12\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/viktoria/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.Android\\zadanie4Molotova.Android.csproj",
+      "projectUniqueName": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.Android/zadanie4Molotova.Android.csproj",
       "projectName": "zadanie4Molotova.Android",
-      "projectPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.Android\\zadanie4Molotova.Android.csproj",
-      "packagesPath": "C:\\Users\\307-12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.Android\\obj\\",
+      "projectPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.Android/zadanie4Molotova.Android.csproj",
+      "packagesPath": "/Users/viktoria/.nuget/packages/",
+      "outputPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\307-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/viktoria/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid12.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj": {
-              "projectPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj"
+            "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj": {
+              "projectPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj"
             }
           }
         }
@@ -3452,14 +3445,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

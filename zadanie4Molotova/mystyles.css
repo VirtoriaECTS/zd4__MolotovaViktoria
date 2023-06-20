@@ -1,0 +1,29 @@
+﻿^contentpage {
+    background-color: #2D2F36;
+}
+label {
+    color: white;
+}
+Entry {
+    background-color: white;
+    color: black;
+}
+Button {
+    border-color: #DD4F3D;
+    background-color: #DD4F3D;
+    color: white;
+}
+CheckBox {
+    border-color: white;
+    color: #DD4F3D;
+}
+Picker {
+    color: white
+}
+
+.print {
+    color: #DD4F3D;
+}
+DatePicker {
+    color: #DD4F3D;
+}

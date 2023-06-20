@@ -13,6 +13,8 @@ namespace zadanie4Molotova
         public MainPage()
         {
             InitializeComponent();
+
+            
         }
     }
 }

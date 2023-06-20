@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v12.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\zadanie4Molotova\zadanie4Molotova.csproj">
-      <Project>{73FCB8CF-DA1C-4E5A-9542-DF858D702622}</Project>
+      <Project>{BD727CF9-5B63-4001-9EAF-F6E674B18CD7}</Project>
       <Name>zadanie4Molotova</Name>
     </ProjectReference>
   </ItemGroup>

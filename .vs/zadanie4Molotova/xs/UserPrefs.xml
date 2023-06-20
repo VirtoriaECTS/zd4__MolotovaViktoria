@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{927793F4-F56A-4503-96FB-75E4254EF8B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.zadanie4Molotova.Android PreferredExecutionTarget="Android.phone_420-dpi_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.phone_420-dpi_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zadanie4Molotova" expanded="True">
+            <Node name="zadanie4Molotova" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+              <Node name="welcome.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

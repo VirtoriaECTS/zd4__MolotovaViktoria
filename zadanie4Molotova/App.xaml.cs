@@ -10,7 +10,7 @@ namespace zadanie4Molotova
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new welcome());
         }
 
         protected override void OnStart()

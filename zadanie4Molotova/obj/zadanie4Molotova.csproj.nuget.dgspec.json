@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj": {}
+    "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj": {}
   },
   "projects": {
-    "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj": {
+    "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj",
+        "projectUniqueName": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj",
         "projectName": "zadanie4Molotova",
-        "projectPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj",
-        "packagesPath": "C:\\Users\\307-12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\obj\\",
+        "projectPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj",
+        "packagesPath": "/Users/viktoria/.nuget/packages/",
+        "outputPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\307-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/viktoria/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,12 +59,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

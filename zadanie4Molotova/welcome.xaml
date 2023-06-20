@@ -1,0 +1,27 @@
+﻿
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zadanie4Molotova.welcome"
+             >
+    <ContentPage.Resources>
+        <StyleSheet Source="/mystyles.css" />
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical ">
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" Margin="0, 120">
+        <Label Text="Welcome" FontSize="23" HorizontalOptions="Center" ></Label>
+         <StackLayout Margin="50">
+            <Entry x:Name="login" WidthRequest="300" Placeholder="Login" ></Entry>
+            <Entry x:Name="password" WidthRequest="300" Placeholder = "Password" IsPassword ="True" ></Entry>
+            </StackLayout >
+
+        <Button x:Name="signIn" Text="Sign in" Clicked="signIn_Clicked" Margin="50, -30"></Button>
+            </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Margin="0 , -70">
+            <CheckBox Margin="55 , 1"></CheckBox>
+            <Label Text="Remember me" FontSize="16" Margin="-60, 4" ></Label>
+            <Label Text="I forgor!" FontSize="16"  Margin="105, 5" ></Label>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>

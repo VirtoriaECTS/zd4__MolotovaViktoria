@@ -3,25 +3,26 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zadanie4Molotova.Page1"
              Title="Кредитный 
-             калькулятор">
+             калькулятор"
+             >
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Margin="11, 5">
 
             <StackLayout Orientation="Horizontal">
                 <Label    Text="Сумма кредита:" FontSize="23"/>
-                <Entry x:Name="summa" WidthRequest="200"/>
+                <Entry x:Name="summa" WidthRequest="200" Keyboard="Numeric"/>
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">
                 <Label  Text="Срок (месяцев):" FontSize="23"/>
-                <Entry x:Name="srok" WidthRequest="200"/>
+                <Entry x:Name="srok" WidthRequest="200" Keyboard="Numeric"/>
             </StackLayout>
 
             <StackLayout Orientation="Horizontal" Padding="5" >
                 <StackLayout Orientation="Vertical">
                     <Label Text="Вид       платежа" FontSize="23"/>
                 </StackLayout>
-                <Picker x:Name="vid" WidthRequest="280" FontSize="25" >
+                <Picker x:Name="vid" WidthRequest="280" FontSize="25" TextColor="#DD4F3D">
                     <Picker.Items>
                         <x:String>Аннуитетный</x:String>
                         <x:String>Дифференцированный</x:String>
@@ -37,22 +38,22 @@
                     <Label Text="Процентная" FontSize="23"/>
                     <Label Text="ставка:" FontSize="23"/>
                 </StackLayout>
-                <Slider  x:Name="slider" ThumbColor="Blue" MaximumTrackColor="Blue" MinimumTrackColor="Blue" Minimum="0" Maximum="100" ValueChanged ="Slider_BindingContextChanged" ></Slider>
+                <Slider  x:Name="slider" ThumbColor="#DD4F3D" MaximumTrackColor="#DD4F3D" MinimumTrackColor="#DD4F3D" Minimum="0" Maximum="100" ValueChanged ="Slider_BindingContextChanged" ></Slider>
                 <Label x:Name="procent" Text="%" FontSize="23" VerticalOptions="Center" HorizontalOptions="Center"/>
             </StackLayout>
 
             <StackLayout Orientation="Vertical">
                 <Label Text="Ежемесячный платеж:" FontSize="23"/>
-                <Label x:Name="monthplat" Text="..." FontSize="23"/>
+                <Label x:Name="monthplat" Text="..."  StyleClass="print" FontSize="23"/>
 
                 <StackLayout Orientation="Horizontal">
                     <Label Text="Общая сумма:" FontSize="23"/>
-                    <Label x:Name="allsum" Text="..." FontSize="23"/>
+                    <Label x:Name="allsum" Text="..." FontSize="23" StyleClass="print"/>
                 </StackLayout>
 
                 <StackLayout Orientation="Horizontal">
                     <Label Text="Переплата:" FontSize="23"/>
-                    <Label x:Name="pereplata" Text="..." FontSize="23"/>
+                    <Label x:Name="pereplata" Text="..." FontSize="23" StyleClass="print"/>
                 </StackLayout>
 
             </StackLayout>

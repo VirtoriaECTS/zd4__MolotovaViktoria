@@ -1062,39 +1062,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\307-12\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/viktoria/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.iOS\\zadanie4Molotova.iOS.csproj",
+      "projectUniqueName": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.iOS/zadanie4Molotova.iOS.csproj",
       "projectName": "zadanie4Molotova.iOS",
-      "projectPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.iOS\\zadanie4Molotova.iOS.csproj",
-      "packagesPath": "C:\\Users\\307-12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova.iOS\\obj\\",
+      "projectPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.iOS/zadanie4Molotova.iOS.csproj",
+      "packagesPath": "/Users/viktoria/.nuget/packages/",
+      "outputPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\307-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/viktoria/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj": {
-              "projectPath": "C:\\Users\\307-12\\Desktop\\Молотова\\zadanie4Molotova\\zadanie4Molotova\\zadanie4Molotova.csproj"
+            "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj": {
+              "projectPath": "/Users/viktoria/Desktop/Мирошниченко/zadanie5Molotova/zadanie4Molotova/zadanie4Molotova.csproj"
             }
           }
         }
