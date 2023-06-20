@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zadanie4Molotova.Page2"
+             Title="Курсы валют">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Центобанк РФ:" FontSize="23" Padding="40"/>
+                <Label Text="Текущая дата:" FontSize="23" Padding="40" FontAttributes="Bold" TextDecorations="Underline"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Margin="40, 0">
+                <Label Text="USD:" FontSize="23" FontAttributes="Bold" TextDecorations="Underline"/>
+                <Label Text="80.000" FontSize="23"/>
+                <DatePicker FontSize="23" FontAttributes="Bold" Margin="41, 0">
+                </DatePicker>
+            </StackLayout>
+
+            <StackLayout>
+                
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="40, 0">
+                <Label Text="EUR:" FontSize="23" FontAttributes="Bold" TextDecorations="Underline"/>
+                
+                <Label Text="86.000" FontSize="23"/>
+            </StackLayout>
+            
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

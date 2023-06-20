@@ -1,0 +1,17 @@
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\bin\Debug\netstandard2.0\zadanie4Molotova.deps.json
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\bin\Debug\netstandard2.0\zadanie4Molotova.dll
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\bin\Debug\netstandard2.0\zadanie4Molotova.pdb
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.csproj.AssemblyReference.cache
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.AssemblyInfoInputs.cache
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.AssemblyInfo.cs
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.csproj.CoreCompileInputs.cache
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.dll
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\refint\zadanie4Molotova.dll
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\zadanie4Molotova.pdb
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\ref\zadanie4Molotova.dll
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\307-12\Desktop\Молотова\zadanie4Molotova\zadanie4Molotova\obj\Debug\netstandard2.0\Page2.xaml.g.cs
